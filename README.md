@@ -147,7 +147,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📬 Contato
 
-Flávio Martins Jr - [@seu-usuario](https://twitter.com/seu-usuario) - seu-email@example.com
-
 Link do Projeto: [https://github.com/FlavioMartinsJr/PlataformaCurso-API](https://github.com/FlavioMartinsJr/PlataformaCurso-API)
 
